@@ -7,7 +7,7 @@ public class test {
 		System.out.print("9999999---zhaoshuangjian");
 		System.out.print("9999999---zhaoshuangjian");
 		System.out.print("9999999---zhaoshuangjian");
-		System.out.print("9999999---zhaoshuangjian");
+		System.out.print("9999999---zhaoshuangjian00000000000000000");
 
 	}
 
